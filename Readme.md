@@ -13,7 +13,7 @@ A comprehensive collection of Low-Level Design concepts, principles, and pattern
 | **Low-Level Design** | [pradyumnchaudhary.criene.com/blog/low-level-design](https://pradyumnchaudhary.criene.com/blog/low-level-design) |
 | **OOPs Core Principles** | [pradyumnchaudhary.criene.com/blog/oops](https://pradyumnchaudhary.criene.com/blog/oops) |
 | **UML** | [pradyumnchaudhary.criene.com/blog/low-level-design/uml](https://pradyumnchaudhary.criene.com/blog/low-level-design/uml) |
-| **SOLID Principles** | [pradyumnchaudhary.criene.com/blog/low-level-design/solid](https://pradyumnchaudhary.criene.com/blog/low-level-design/solid) |
+| **SOLID Principles** | [pradyumnchaudhary.criene.com/blog/low-level-design/solid-principles](https://pradyumnchaudhary.criene.com/blog/low-level-design/solid-principles) |
 
 ---
 
