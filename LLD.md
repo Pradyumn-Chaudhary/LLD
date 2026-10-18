@@ -34,5 +34,6 @@ Decoupled components can be reused across different modules or applications with
 
 ## Core Concepts
 
-### [Object-Oriented Programming (OOPs) Core Principles](/blog/oops)
-### [Unified Modeling Language (UML)](/blog/low-level-design/uml)
+### [Object-Oriented Programming (OOPs) Core Principles](OOPs.md)
+### [Unified Modeling Language (UML)](UML.md)
+### [SOLID Principles](SOLID/SOLID.md)
